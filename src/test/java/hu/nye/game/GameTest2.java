@@ -4,7 +4,6 @@ import hu.nye.board.Board;
 import hu.nye.player.ComputerPlayer;
 import hu.nye.player.HumanPlayer;
 import hu.nye.player.Player;
-import hu.nye.score.ScoreManager;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

@@ -2,7 +2,6 @@ package hu.nye.util;
 
 import hu.nye.board.Board;
 
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.w3c.dom.Document;
